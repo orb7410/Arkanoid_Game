@@ -1,0 +1,83 @@
+{
+	"level": 2,
+	"sound": "../static/Spook.wav",
+	"brickSize": [200, 50],
+	"numBricksInLine": 5,
+    	"bricks": [
+        {
+            "color": "orange",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "color": "peach",
+            "x": 1,
+            "y": 0
+        },
+        {
+            "color": "peach",
+            "x": 1,
+            "y": 1
+        },
+        {
+            "color": "pink",
+            "x": 2,
+            "y": 0
+        },
+        {
+            "color": "pink",
+            "x": 2,
+            "y": 1
+        },
+        {
+            "color": "pink",
+            "x": 2,
+            "y": 2
+        },
+        {
+            "color": "red",
+            "x": 3,
+            "y": 0
+        },
+        {
+            "color": "red",
+            "x": 3,
+            "y": 1
+        },
+        {
+            "color": "red",
+            "x": 3,
+            "y": 2
+        },
+        {
+            "color": "red",
+            "x": 3,
+            "y": 3
+        },
+        {
+            "color": "cyan",
+            "x": 4,
+            "y": 0
+        },
+        {
+            "color": "cyan",
+            "x": 4,
+            "y": 1
+        },
+        {
+            "color": "cyan",
+            "x": 4,
+            "y": 2
+        },
+        {
+            "color": "cyan",
+            "x": 4,
+            "y": 3
+        },
+        {
+            "color": "cyan",
+            "x": 4,
+            "y": 4
+        }
+    ]
+}

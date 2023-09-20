@@ -1,0 +1,83 @@
+{
+	"level": 1,
+	"sound": "../static/Sneaky-Snitch.wav",
+	"brickSize": [200, 50],
+	"numBricksInLine": 5,
+    	"bricks": [
+        {
+            "color": "red",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "color": "red",
+            "x": 0,
+            "y": 1
+        },
+        {
+            "color": "red",
+            "x": 0,
+            "y": 2
+        },
+        {
+            "color": "red",
+            "x": 0,
+            "y": 3
+        },
+        {
+            "color": "red",
+            "x": 0,
+            "y": 4
+        },
+        {
+            "color": "blue",
+            "x": 1,
+            "y": 0
+        },
+        {
+            "color": "blue",
+            "x": 1,
+            "y": 1
+        },
+        {
+            "color": "blue",
+            "x": 1,
+            "y": 2
+        },
+        {
+            "color": "blue",
+            "x": 1,
+            "y": 3
+        },
+        {
+            "color": "blue",
+            "x": 1,
+            "y": 4
+        },
+        {
+            "color": "green",
+            "x": 2,
+            "y": 0
+        },
+        {
+            "color": "green",
+            "x": 2,
+            "y": 1
+        },
+        {
+            "color": "green",
+            "x": 2,
+            "y": 2
+        },
+        {
+            "color": "green",
+            "x": 2,
+            "y": 3
+        },
+        {
+            "color": "green",
+            "x": 2,
+            "y": 4
+        }
+    ]
+}
